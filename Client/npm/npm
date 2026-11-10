@@ -1,0 +1,33 @@
+Need to install the following packages:
+create-vite@9.3.1
+Ok to proceed? (y) 
+> npx
+> cva frontend --template reactC:\Users\Nishika Dhoke\Nishika-Personal-Portfolio create vite@latest frontend -- --template react
+
+
+create-vite v9.3.1
+
+[?25l│
+◆  "reactC:\Users\Nishika" isn't a valid template. Please choose from below: 
+│  ● Vanilla
+│  ○ Vue
+│  ○ React
+│  ○ Preact
+│  ○ Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+│  ↑/↓ to navigate • Enter: confirm
+└
+[999D[16A[1B[J◇  "reactC:\Users\Nishika" isn't a valid template. Please choose from below: 
+│  Vanilla
+[?25h[?25l│
+◆  Select a variant:
+│  ● TypeScript
+│  ○ JavaScript
+│  ↑/↓ to navigate • Enter: confirm
+└
